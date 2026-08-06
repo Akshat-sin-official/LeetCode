@@ -11,4 +11,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Akshat-sin-official/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Akshat-sin-official/LeetCode/tree/master/0401-binary-watch) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Akshat-sin-official/LeetCode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
