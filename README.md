@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Akshat-sin-official/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Akshat-sin-official/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
@@ -31,5 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Akshat-sin-official/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Akshat-sin-official/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Akshat-sin-official/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Akshat-sin-official/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
