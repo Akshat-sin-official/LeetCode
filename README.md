@@ -45,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akshat-sin-official/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/Akshat-sin-official/LeetCode/tree/master/1314-matrix-block-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Akshat-sin-official/LeetCode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Akshat-sin-official/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Akshat-sin-official/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
